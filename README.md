@@ -1,6 +1,70 @@
-# COOLDEX-DECENTRALIZED-EXCHANGE-ON-METER
-CoolDEX is a cutting-edge decentralized exchange (DEX) meticulously crafted on the Meter blockchain infrastructure. Utilizing robust solidity smart contracts and a sleek React frontend, CoolDEX offers users an intuitive platform to engage in seamless token trading. With a focus on fostering liquidity and accessibility, CoolDEX empowers users to transact with minimal fees and intermediaries, thereby democratizing financial opportunities within the Meter ecosystem.
+# Getting Started with Create React App
 
-At CoolDEX, we prioritize security, scalability, and user experience, ensuring that traders can execute their transactions swiftly and securely. Our DEX architecture is engineered to withstand the demands of a dynamic trading environment while providing a seamless user interface for both novice and experienced traders.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-By harnessing the power of Meter's blockchain technology, CoolDEX enables users to participate in decentralized finance (DeFi) with confidence, knowing that their assets are protected by a robust and decentralized infrastructure. Our commitment to innovation and excellence drives us to continuously enhance CoolDEX, pushing the boundaries of decentralized finance and redefining the future of trading on the Meter blockchain. Join us on this exciting journey as we revolutionize token trading with CoolDEX.
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
